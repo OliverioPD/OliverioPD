@@ -1,5 +1,6 @@
-<h1 align="center">¡Hola...! 👋, Soy Oliverio P.</h1>
-<h1 align="center">Un curioso matemático y analista de Perú</h1>
+<h1 align="center">¡Hola...! 👋 Soy Oliverio P. <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h1>
+<p align="center"><em>Un curioso matemático y analista </a><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="50"> 
+</em></p>
 
 <div align="center">
   <a href="https://github.com/OliverioPD">
@@ -21,3 +22,7 @@
   <a href="https://kaggle.com/oliveriopichardo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+ ---
+  
+ <img src="https://media.giphy.com/media/bVcpc4QFNUxkOfCw0E/giphy.gif" width="60"> <em><b>Me encanta aprender y enseñar a otros sobre las cosas que interiorizo...</b> :)</em>
