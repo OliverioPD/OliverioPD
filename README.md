@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola...! 👋 Soy Oliverio P. <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h1>
+<h1 align="center">¡Hola...! 👋 Soy Oliverio P. <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="100"></h1>
 <p align="center"><em>Un curioso matemático y analista </a><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="50"> 
 </em></p>
 
